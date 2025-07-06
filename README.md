@@ -11,15 +11,20 @@
 
 ---
 
+## 🎯 Objective / Overview
+
+A highly motivated and detail-oriented Java Developer with a Master's in Computer Applications (MCA) from **GNIOT**. Passionate about building scalable backend systems and clean, maintainable code using Java and Spring Boot. Currently focusing on enhancing full-stack applications and developing real-world enterprise-level projects.
+
+---
+
 ## 👩‍🎓 About Me
 
 - 🎓 MCA Graduate from **Greater Noida Institute of Technology (GNIOT)**
-- 💻 Passionate about backend development and clean code
-- 🔧 Completed Projects:  
-  `MedTech Patient Management System`  
-  `Library Management System`
-- 📫 Contact me:  
-  [📧 Email](mailto:saloniparashar0073@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/salonimca)
+- 💻 Passionate about backend development and clean architecture
+- ✅ Completed Projects:
+  - MedTech Patient Management System  
+  - Library Management System
+- 📫 Contact me: [📧 Email](mailto:saloniparashar0073@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/salonimca)
 
 ---
 
@@ -39,21 +44,14 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
-- **Languages:** Java, C, C++, SQL  
-- **Web Tech:** HTML, CSS  
-- **Frameworks:** Spring Boot, Hibernate  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, Maven, VS Code, IntelliJ  
-- **Concepts:** OOP, DSA, MVC Architecture  
-
 ---
 
 ## 🚀 Completed Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🎯 [MedTech Patient Management System](https://github.com/saloni73/MedTech-Patient-Management-System) | Healthcare app to manage patients, doctors, appointments | Java, JDBC, MySQL |
-| 📚 [Library Management System](https://github.com/saloni73/Library-Management-System) | User-authenticated system with book reservations | Java, Hibernate, MySQL |
+| 🎯 [MedTech Patient Management System](https://github.com/saloni73/MedTech-Patient-Management-System) | A modular healthcare management system to manage patients, doctors, appointments, and treatments. Follows MVC architecture and uses user-defined data input via CLI. | Java, JDBC, MySQL |
+| 📚 [Library Management System](https://github.com/saloni73/Library-Management-System) | A library backend system with role-based access, user authentication, and transaction handling like borrow/return/reservation. Built using Hibernate ORM. | Java, Hibernate, MySQL |
 
 ---
 
@@ -70,7 +68,7 @@
 
 ## 📄 Resume
 
-- 📝 [Click to View My Resume](https://drive.google.com/file/d/1V8h5Ue2QVy2PR04hrLu-ZitCvusi1z7a/view?usp=drivesdk)
+📝 [Click here to view my Resume](https://drive.google.com/file/d/1V8h5Ue2QVy2PR04hrLu-ZitCvusi1z7a/view?usp=drivesdk)
 
 ---
 
