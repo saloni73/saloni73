@@ -11,21 +11,25 @@
 
 ---
 
-## 🎯 Objective / Overview
+## 🎯 Objective
 
-A highly motivated and detail-oriented Java Developer with an MCA from **Greater Noida Institute of Technology (GNIOT)**. Passionate about building scalable backend systems and writing clean, maintainable code. Skilled in Java, Spring Boot, and relational databases. I aim to contribute to impactful software solutions and continuously learn in the ever-evolving tech industry.
+A motivated and detail-oriented Java Developer with an MCA from **Greater Noida Institute of Technology (GNIOT)**. Passionate about backend development, writing clean and scalable code, and solving real-world problems. I'm eager to join a forward-thinking team and contribute to impactful software solutions.
 
 ---
 
-## 👩‍🎓 About Me
+## 👩‍💻 About Me
 
-- 🎓 MCA Graduate from **GNIOT**
-- 💡 Backend-focused with strong OOP and database skills
-- ✅ Completed Projects:
-  - MedTech Patient Management System  
-  - Library Management System
-- 🌱 Learning Web Technologies like **HTML & CSS**
-- 📫 Reach Me: [📧 Email](mailto:saloniparashar0073@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/salonimca)
+I'm a passionate backend developer with a strong foundation in **Java**, **Spring Boot**, and **relational databases**. I enjoy architecting modular systems, managing data efficiently, and continuously learning emerging technologies.
+
+---
+
+## ⚡ Highlights
+
+- 🔧 Strong in **Core Java**, OOPs, JDBC, and Hibernate
+- 🧠 Familiar with **Spring Boot**, REST APIs, and MVC design
+- 🗃️ Proficient in **MySQL**, **PostgreSQL**, and database normalization
+- 🧪 Knowledge of **JUnit**, basic testing, and code optimization
+- 💬 Effective communicator and collaborative team player
 
 ---
 
@@ -47,12 +51,12 @@ A highly motivated and detail-oriented Java Developer with an MCA from **Greater
 
 ---
 
-## 🚀 Completed Projects
+## 🚀 Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🎯 [MedTech Patient Management System](https://github.com/saloni73/MedTech-Patient-Management-System) | Modular healthcare system with patient, doctor, treatment, and appointment modules. Features user-defined input, error handling, and structured codebase using OOP and JDBC. | Java, JDBC, MySQL |
-| 📚 [Library Management System](https://github.com/saloni73/Library-Management-System) | Library backend with user authentication, book transactions, and role-based access (Admin/User). Built using Hibernate ORM and follows MVC design. | Java, Hibernate, MySQL |
+| 🎯 [MedTech Patient Management System](https://github.com/saloni73/MedTech-Patient-Management-System) | Developed a modular healthcare application with patient, doctor, treatment, and appointment modules. Implemented user-defined input, validation, and exception handling. | Java, JDBC, MySQL |
+| 📚 [Library Management System](https://github.com/saloni73/Library-Management-System) | Built a backend system with user login, book management, and role-based access (Admin/User). Used Hibernate ORM and followed the MVC design pattern. | Java, Hibernate, MySQL |
 
 ---
 
@@ -76,7 +80,7 @@ A highly motivated and detail-oriented Java Developer with an MCA from **Greater
 
 ## 📄 Resume
 
-📝 [Click to View My Resume](https://drive.google.com/file/d/1V8h5Ue2QVy2PR04hrLu-ZitCvusi1z7a/view?usp=drivesdk)
+📌 [Click to View My Resume (PDF – Google Drive)](https://drive.google.com/file/d/1V8h5Ue2QVy2PR04hrLu-ZitCvusi1z7a/view?usp=drivesdk)
 
 ---
 
