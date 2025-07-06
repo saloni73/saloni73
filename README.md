@@ -14,7 +14,7 @@
 - 🎓 MCA Graduate | Passionate Java Developer
 - 💻 I love building full-stack applications using **Java**, **Spring Boot**, **JDBC**, **Hibernate**, and **MySQL**
 - 🚀 Currently working on: `MedTech Patient Management System` and `Library Management System`
-- 📫 How to reach me: [Email](mailto:saloniparashar0073@gmail.com) | [LinkedIn](https://www.linkedin.com/in/saloni-sharma73)
+- 📫 How to reach me: [Email](mailto:saloniparashar0073@gmail.com) | [LinkedIn](LinkedIn: www.linkedin.com/in/salonimca)
 
 ---
 
@@ -50,7 +50,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/saloni-sharma73)
+- 💼 [LinkedIn](LinkedIn: www.linkedin.com/in/salonimca)
 - 📧 [Email](mailto:saloniparashar0073@gmail.com)
 
 ---
