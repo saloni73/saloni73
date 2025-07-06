@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**saloni73/saloni73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Saloni Sharma</h1>
+<h3 align="center">Java Developer | MCA Graduate | Backend Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saloni73&label=Profile%20views&color=0e75b6&style=flat" alt="saloni73" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌟 **About Me**
+
+- 🎓 MCA Graduate | Passionate Java Developer
+- 💻 I love building full-stack applications using **Java**, **Spring Boot**, **JDBC**, **Hibernate**, and **MySQL**
+- 🚀 Currently working on: `MedTech Patient Management System` | `Library Management System`
+- 📫 How to reach me: [Email](mailto:yourmail@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile)
+
+---
+
+🛠️ **Tech Stack**
+
+```yaml
+Languages: Java, C, C++, SQL
+Frameworks: Spring Boot, Hibernate
+Database: MySQL, PostgreSQL
+Tools: Git, Maven, VS Code, IntelliJ
+Concepts: OOP, DSA, MVC Architecture
