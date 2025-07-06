@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontAlign=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FDC830,100:F37335&height=200&section=header&text=Welcome%20to%20Saloni's%20GitHub!&fontSize=35&fontAlign=50&fontColor=ffffff)
 
 <h1 align="center">Hi there 👋, I'm Saloni Sharma</h1>
 <h3 align="center">💻 Java Developer | 🎓 MCA Graduate (GNIOT) | ☁️ Backend Enthusiast</h3>
@@ -13,18 +13,19 @@
 
 ## 🎯 Objective / Overview
 
-A highly motivated and detail-oriented Java Developer with a Master's in Computer Applications (MCA) from **GNIOT**. Passionate about building scalable backend systems and clean, maintainable code using Java and Spring Boot. Currently focusing on enhancing full-stack applications and developing real-world enterprise-level projects.
+A highly motivated and detail-oriented Java Developer with an MCA from **Greater Noida Institute of Technology (GNIOT)**. Passionate about building scalable backend systems and writing clean, maintainable code. Skilled in Java, Spring Boot, and relational databases. I aim to contribute to impactful software solutions and continuously learn in the ever-evolving tech industry.
 
 ---
 
 ## 👩‍🎓 About Me
 
-- 🎓 MCA Graduate from **Greater Noida Institute of Technology (GNIOT)**
-- 💻 Passionate about backend development and clean architecture
+- 🎓 MCA Graduate from **GNIOT**
+- 💡 Backend-focused with strong OOP and database skills
 - ✅ Completed Projects:
   - MedTech Patient Management System  
   - Library Management System
-- 📫 Contact me: [📧 Email](mailto:saloniparashar0073@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/salonimca)
+- 🌱 Learning Web Technologies like **HTML & CSS**
+- 📫 Reach Me: [📧 Email](mailto:saloniparashar0073@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/salonimca)
 
 ---
 
@@ -50,8 +51,15 @@ A highly motivated and detail-oriented Java Developer with a Master's in Compute
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🎯 [MedTech Patient Management System](https://github.com/saloni73/MedTech-Patient-Management-System) | A modular healthcare management system to manage patients, doctors, appointments, and treatments. Follows MVC architecture and uses user-defined data input via CLI. | Java, JDBC, MySQL |
-| 📚 [Library Management System](https://github.com/saloni73/Library-Management-System) | A library backend system with role-based access, user authentication, and transaction handling like borrow/return/reservation. Built using Hibernate ORM. | Java, Hibernate, MySQL |
+| 🎯 [MedTech Patient Management System](https://github.com/saloni73/MedTech-Patient-Management-System) | Modular healthcare system with patient, doctor, treatment, and appointment modules. Features user-defined input, error handling, and structured codebase using OOP and JDBC. | Java, JDBC, MySQL |
+| 📚 [Library Management System](https://github.com/saloni73/Library-Management-System) | Library backend with user authentication, book transactions, and role-based access (Admin/User). Built using Hibernate ORM and follows MVC design. | Java, Hibernate, MySQL |
+
+---
+
+## 🧾 Certificates
+
+- 🏅 [ADCA – Advanced Diploma in Computer Applications (Java, MySQL)](https://www.linkedin.com/posts/salonimca_adca-computerapplications-java-activity-7318326842308837377-Xeiq?utm_source=share&utm_medium=member_android)
+- 👩‍💻 [C & C++ Programming Certificate](https://www.linkedin.com/posts/salonimca_cprogramming-cplusplus-programming-activity-7301952415103102976-8XK0?utm_source=share&utm_medium=member_android)
 
 ---
 
@@ -68,7 +76,7 @@ A highly motivated and detail-oriented Java Developer with a Master's in Compute
 
 ## 📄 Resume
 
-📝 [Click here to view my Resume](https://drive.google.com/file/d/1V8h5Ue2QVy2PR04hrLu-ZitCvusi1z7a/view?usp=drivesdk)
+📝 [Click to View My Resume](https://drive.google.com/file/d/1V8h5Ue2QVy2PR04hrLu-ZitCvusi1z7a/view?usp=drivesdk)
 
 ---
 
