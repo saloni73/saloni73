@@ -64,7 +64,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/salonimca)
 - 📧 [Email](mailto:saloniparashar0073@gmail.com)
-- 📄 [My Resume](https://drive.google.com/your-resume-link) <!-- 🔁 Replace this with your actual public Google Drive resume link -->
+- 📄 [My Resume](https://drive.google.com/file/d/1V8h5Ue2QVy2PR04hrLu-ZitCvusi1z7a/view?usp=drivesdk) <!-- 🔁 Replace this with your actual public Google Drive resume link -->
 
 ---
 
