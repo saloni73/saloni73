@@ -14,7 +14,7 @@
 - 🎓 MCA Graduate | Passionate Java Developer
 - 💻 I love building full-stack applications using **Java**, **Spring Boot**, **JDBC**, **Hibernate**, and **MySQL**
 - 🚀 Currently working on: `MedTech Patient Management System` and `Library Management System`
-- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 📫 How to reach me: [Email](mailto:saloniparashar0073@gmail.com) | [LinkedIn](https://www.linkedin.com/in/saloni-sharma73)
 
 ---
 
@@ -34,7 +34,7 @@
 |--------|------------|-------------|
 | [MedTech Patient Management System](https://github.com/saloni73/MedTech-Patient-Management-System) | Java, JDBC, MySQL | Modular healthcare app to manage patients, doctors, and treatments |
 | [Library Management System](https://github.com/saloni73/Library-Management-System) | Java, Hibernate, MySQL | Role-based access with user authentication and book tracking |
-| [Digital Video Forensics](https://github.com/saloni73/Digital-Video-Forensics) | React.js, Flask, Deep Learning | Deepfake detection using CNN, RNN, GANs |
+
 
 ---
 
@@ -50,8 +50,8 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saloni-sharma73)
+- 📧 [Email](mailto:saloniparashar0073@gmail.com)
 
 ---
 
