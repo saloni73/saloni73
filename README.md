@@ -68,7 +68,7 @@ Eager to contribute to a growth-oriented organization while learning and buildin
 ---
 
 ### 📚 Library Management System  
-🔗 https://github.com/saloni73/Library-Management-System  
+🔗 https://github.com/saloni73/Library-Management-System-
 
 - Book & user management system with role-based access  
 - Hibernate ORM for efficient DB operations
