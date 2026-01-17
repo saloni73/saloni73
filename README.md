@@ -92,9 +92,11 @@ Eager to contribute to a growth-oriented organization while learning and buildin
 
 ## 📄 Resume
 
-📌 **[View My Resume (PDF)]**  
-👉 https://drive.google.com/file/d/1V8h5Ue2QVy2PR04hrLu-ZitCvusi1z7a/view
-
+<p align="center">
+  <a href="Saloni_Java_developer_Resume.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
+  </a>
+</p>
 ---
 
 ## 🌐 Connect With Me
