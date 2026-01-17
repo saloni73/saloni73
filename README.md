@@ -78,7 +78,6 @@ Eager to contribute to a growth-oriented organization while learning and buildin
 ---
 
 ### 🌦️ Weather Web Application  
-🔗 **Live Demo:** https://saloni73.github.io/Weather-App  
 🔗 **Source Code:** https://github.com/saloni73/Weather-App  
 
 - Real-time weather data using OpenWeatherMap API  
